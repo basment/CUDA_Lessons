@@ -23,6 +23,15 @@ To run this project, ensure the following are installed on your system:
 ## Takeaway
 This demonstrates the power of pallel processing when used in an effiecent way.
 
+Data: 
+  - Each thread is responsible for one element of the result C matrix.
+      - Thread actions:
+          - Read one row of A
+          - Read one column of B
+          - Perform N operations
+  
+  - N^2 = matrix dimension 
+
 When our N vairable is at 100 (Giving us 10,000 elements), you see that the kernel execution is 2x as fast.
 - N = 100
     - Cpu execution - 1.6 ms
