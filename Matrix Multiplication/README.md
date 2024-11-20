@@ -5,7 +5,7 @@ This project demonstrates how to implement matrix multiplication on both the CPU
 ---
 
 ## Features
-- Implements matrix multiplication for square matrices of size \( N \times N \).
+- Implements matrix multiplication for square matrices of size ( N * N ).
 - Provides both:
   - **CPU Implementation**: Sequential execution.
   - **GPU Implementation**: Parallel execution using CUDA kernels.
