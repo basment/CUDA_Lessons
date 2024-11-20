@@ -1,2 +1,2 @@
 # CUDA_Lessons
-A collection of CUDA programming lessons
+A collection of my personal journey in learning GPU computing
