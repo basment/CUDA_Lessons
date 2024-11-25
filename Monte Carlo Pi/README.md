@@ -47,4 +47,4 @@ The more points generated, the more accurate the estimation of π. GPU paralleli
 ---
 
 Ali Chouaib  
-11/22/2024
+11/25/2024
