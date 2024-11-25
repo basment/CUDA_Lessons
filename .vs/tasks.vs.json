@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-sharedMatrixMul",
+      "appliesTo": "Matrix Multiplication - Shared Memory/sharedMatrixMul.cu",
+      "type": "launch"
+    }
+  ]
+}
