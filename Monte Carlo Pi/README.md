@@ -1,4 +1,4 @@
-# Monte Carlo Simulation for Approximating Pi (GPU)
+# Monte Carlo Simulation for Approximating Pi 
 
 This project demonstrates how to implement a Monte Carlo simulation on the GPU using CUDA to approximate the value of π (Pi). The project leverages GPU parallelism to efficiently simulate a large number of random points and determine how many fall within a quarter circle.
 
